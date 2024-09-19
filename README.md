@@ -80,16 +80,16 @@ healthcare-services-app
 │   └── index.html
 ├── src
 │   ├── assets
-│   │   └── logo.png          # Optional logo for the header
+│   │   └── illustration.png         
 │   ├── components
-│   │   ├── Header.js         # Header component
-│   │   ├── ServiceForm.js    # Form to add/edit services
-│   │   └── ServiceList.js    # List to display, edit, and delete services
-│   ├── App.js                # Main app entry point
-│   └── index.js              # React app entry point
-├── tailwind.config.js        # Tailwind CSS configuration
-├── README.md                 # This README file
-└── package.json              # Project dependencies and scripts
+│   │   ├── Header.js         
+│   │   ├── ServiceForm.js    
+│   │   └── ServiceList.js   
+│   ├── App.js                
+│   └── index.js             
+├── tailwind.config.js       
+├── README.md                
+└── package.json             
 ```
 
 ## Tailwind CSS
