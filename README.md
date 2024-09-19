@@ -1,6 +1,3 @@
-Sure! Here's a detailed **README.md** template for your project, including instructions for setup, running the project, and an overview of the functionality:
-
----
 
 # Healthcare Services Management Web App
 
